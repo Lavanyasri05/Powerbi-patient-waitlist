@@ -20,8 +20,3 @@
 - Enhanced hospital decision-making with visual dashboards.
 - Reduced patient wait times by identifying inefficiencies.
 - Provided insights for better healthcare planning.
-
-## 📂 Files in This Repository
-- **README.md** → Project description.
-- **Power BI Reports (optional)** → Upload `.pbix` files if needed.
-- **SQL Queries (optional)** → Add `.sql` files for queries used in data processing.
